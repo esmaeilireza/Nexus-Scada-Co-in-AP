@@ -60,4 +60,4 @@ websockets==16.1.1
 
 # --- Local Only Dependencies ---
 # Pinned to 0.3.36. Ensure matching wheel is installed if build fails.
-llama-cpp-python==0.3.36
+llama-cpp-python==0.3.37
